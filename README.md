@@ -1,18 +1,9 @@
-```text
-                                                  
- mm                  mmmm      mmmm               
- ##                  ""##      ""##               
- ##m####m   m####m     ##        ##       m####m  
- ##"   ##  ##mmmm##    ##        ##      ##"  "## 
- ##    ##  ##""""""    ##        ##      ##    ## 
- ##    ##  "##mmmm#    ##mmm     ##mmm   "##mm##" 
- ""    ""    """""      """"      """"     """"   
-                                                  
-```
-Hi, I'm Komaru.
+Привет, я комару.
 
-14 y/o programmer.
+Мне 15 лет, занимаюсь тупыми вещами типа программирования на С++, Python3 и чуть-чуть верстаю.
 
-I use Arch btw.
+Я владелец: t.me/nasral_hack, t.me/komhost и t.me/komvpn. До этого было владельцем ныне покойного: t.me/furapi. 
 
-Windows is bloatware.
+Учу английский, говорю на русском. Слушаю stomach book, femtanyl, fem&m, yayaheart, MAGAZ27, влад пиво, sqwore/
+
+Состою в: ркгдкм, стендофф комьюнити, фурри. Использую Linux-based системы на пк (arch) и ноуте (Void Linux). Текущая таймзона: gmt+05 (🇰🇿).
